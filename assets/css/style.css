@@ -1,13 +1,29 @@
 body {
-    background-color: #24242e;
+    background-color: #233043;
 }
 
 .navbar {
-    background-color: #000d16;
+    background-color: #121821;
 }
 
 .backgroundColor1 {
-    background-color: #0e436b;
+    background-color: #233043;
+}
+
+.backgroundColor2 {
+    background-color: #121821;
+}
+
+.backgroundColor3 {
+    background-color: #436089;
+}
+
+.backgroundColor4 {
+    background-color: #334866;
+}
+
+.backgroundColor5 {
+    background-color: #313e51;
 }
 
 ::-webkit-scrollbar {
@@ -203,6 +219,8 @@ textarea {
     height: 7rem;
     align-self: center;
     justify-self: center;
+    background-color: #436089 !important;
+    
 
     @media (max-width: 500px) {
         width: 60px;
@@ -256,7 +274,7 @@ textarea {
     top: 0;
     left: 0;
     overflow-y: auto;
-    background-color: #131316;
+    background-color: #233043;
 }
 
 .show-sidebar {
